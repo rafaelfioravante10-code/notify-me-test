@@ -1,5 +1,5 @@
 # Notify Me Test
 
-Versão 1
+Versão 2
 
 Se o Safari detectar alterações nesta página, o Notify Me está funcionando.
